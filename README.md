@@ -1,17 +1,15 @@
-<!-- ⚡ Ultimate GitHub Profile by Natchatranaveen (naveen0560) -->
+<!-- 💫 Ultimate Interactive GitHub Profile by Natchatranaveen (naveen0560) -->
 
-<!-- 🌈 Animated Banner -->
+<!-- 🌈 Gradient Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Natchatranaveen%20⚡️&fontAlign=50&fontAlignY=40&color=0:00C6FF,100:0072FF&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=IoT%20Engineer%20|%20Full%20Stack%20Developer%20|%20Python%20Automation%20Specialist&descAlignY=65&descAlign=50" alt="header" />
 </p>
 
 <h1 align="center">👋 Welcome to my world of code</h1>
 
-<!-- 🧠 Typing Animation -->
+<!-- 🔥 Typing Animation (Fixed link) -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;IoT+Engineer+🌐;Python+Automation+Specialist+🐍;Lifelong+Learner+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;IoT+Engineer+🌐;Python+Automation+Specialist+🐍;Lifelong+Learner+🚀" alt="Typing Animation" />
 </p>
 
 ---
@@ -19,12 +17,12 @@
 ### 👨‍💻 About Me
 
 Hey there! I’m **Natchatranaveen**, a developer who loves connecting **hardware + software** to make tech feel magical.  
-I work on **IoT**, **Automation**, and **Full Stack Web Apps** that bridge imagination and reality.
+I build **IoT systems**, **automation tools**, and **modern web apps** that merge creativity with logic.
 
-- 🔭 Currently building: Smart IoT dashboards & automation systems  
-- 🌱 Learning next: Advanced React + AI for IoT  
-- 💡 Passion: Making complex systems simple  
-- ⚡ Fun fact: I debug best with coffee ☕ and music 🎧  
+- 🛠️ Currently building: Smart IoT dashboards & real-time data systems  
+- 🌱 Learning next: React, AI for IoT, and cloud automation  
+- 💡 Passion: Turning ideas into digital reality  
+- ⚡ Fun fact: Coffee + Code + Music = perfect debug combo 🎧☕
 
 ---
 
@@ -42,7 +40,7 @@ I work on **IoT**, **Automation**, and **Full Stack Web Apps** that bridge imagi
 
 ## 🧠 Tech Stack
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,react,flask,arduino,mysql,mongodb,html,css,bootstrap,git" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,react,flask,arduino,mysql,mongodb,html,css,bootstrap,git" />
 </p>
 
 <p align="center">
@@ -72,9 +70,11 @@ I work on **IoT**, **Automation**, and **Full Stack Web Apps** that bridge imagi
 
 ---
 
-## 🐍 My GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
+> To activate this, follow the setup below 👇
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naveen0560/naveen0560/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/naveen0560/naveen0560/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ I work on **IoT**, **Automation**, and **Full Stack Web Apps** that bridge imagi
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveen0560&color=blueviolet&style=flat-square" alt="View Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=naveen0560&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
 <h3 align="center">✨ Keep coding. Keep creating. Keep inspiring. ✨</h3>
